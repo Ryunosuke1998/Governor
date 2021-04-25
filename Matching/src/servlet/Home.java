@@ -14,7 +14,7 @@ import javax.servlet.http.HttpServletResponse;
 
 import dao.GovernorDAO;
 import model.Governor;
-
+//テスト
 /**
  * Servlet implementation class Home
  */
